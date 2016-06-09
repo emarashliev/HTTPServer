@@ -1,2 +1,4 @@
 /Carthage
 *.xcuserdatad
+*.DS_Store
+.DS_Store
